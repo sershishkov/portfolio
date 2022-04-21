@@ -1,0 +1,51 @@
+.header {
+  .container {
+    .header_photo {
+      img {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+      }
+      p {
+        font-size: 1.5rem;
+      }
+    }
+    .header_info {
+      .header_info_links {
+        width: 150px;
+        display: flex;
+        flex-flow: row;
+        justify-content: space-around;
+        align-items: center;
+      }
+    }
+  }
+}
+
+.my-nav {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 27;
+}
+
+.main {
+  h2 {
+    text-align: center;
+  }
+  .container {
+    .card {
+      margin-top: 10px;
+    }
+  }
+}
+
+.about {
+  .container {
+    table {
+      td {
+        border: 1px solid black;
+      }
+    }
+  }
+}
