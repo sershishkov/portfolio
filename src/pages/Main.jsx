@@ -16,8 +16,9 @@ const Main = () => {
             {' '}
             I completed the FRONT END courses, but that knowledge only gives an
             understanding of where to go, I studied further on books and UDEMY
-            courses. Independently taught courses REACT,NextJS, Redux,
-            javaScript, NODE.js MongoDB, Git, Material UI, Bootsrap{' '}
+            courses. Independently taught courses REACT,NextJS, Redux,Redux
+            Toolkit, javaScript,TypeScript, NODE.js MongoDB, Git, Material UI,
+            Bootsrap{' '}
           </p>
           <p>
             At the moment I am looking for a job FRONT END, FULLSTACK with a
