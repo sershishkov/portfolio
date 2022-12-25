@@ -21,8 +21,8 @@ const Main = () => {
             Bootsrap{' '}
           </p>
           <p>
-            At the moment I am looking for a job FRONT END, FULLSTACK with a
-            level of JUNIOR
+            At the moment I am looking for a job FRONT END, FULLSTACK, BACKEND
+            with a level of JUNIOR
           </p>
         </div>
         <h4>
