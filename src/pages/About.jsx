@@ -66,11 +66,11 @@ const About = () => {
                 <h5>Employment</h5>
               </td>
               <td>
-                <h5>Full time</h5>
+                <h5>Full time,Part time</h5>
               </td>
             </tr>
 
-            <tr>
+            {/* <tr>
               <td>Portfolio:</td>
               <td>
                 <h5>
@@ -83,7 +83,7 @@ const About = () => {
                   </a>
                 </h5>
               </td>
-            </tr>
+            </tr> */}
 
             <tr>
               <td>Work Experience:</td>

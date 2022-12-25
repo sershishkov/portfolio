@@ -11,7 +11,7 @@ const Main = () => {
       <div className='container'>
         <div className='description'>
           <h1>Hello dear guest!</h1>
-          <p> Many in this life in search of work, which will delight.</p>
+          <p> Many in this life are in search of work, which will delight.</p>
           <p>
             {' '}
             I completed the FRONT END courses, but that knowledge only gives an
