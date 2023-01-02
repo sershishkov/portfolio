@@ -37,15 +37,15 @@ const Main = () => {
         <div className='row'>
           <div className='card  col-sm-12'>
             <a
-              href='https://speed-math.herokuapp.com/'
+              href='https://speed-calc.vercel.app/'
               target='_blank'
               rel='noopener noreferrer'
             >
               <img src={Calculator} alt='calc' className='card-img-top' />
               <div className='card-body'>
                 <p className='card-text'>
-                  "Speed Math" REACT, React HOOKS, Redux-Toolkit,Material-UI,
-                  javaScript, NODE.js, MongoDB, Git, Heroku,
+                  "Speed calculation" REACT, React HOOKS,
+                  Redux-Toolkit,Material-UI, TypeScript, NODE.js, Git, Vercel,
                 </p>
               </div>
             </a>
