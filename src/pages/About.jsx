@@ -47,7 +47,7 @@ const About = () => {
                 <h5>Objective</h5>
               </td>
               <td>
-                <h5>FrontEnd,BackEnd, FullStack developer JUNIOR</h5>
+                <h5>FrontEnd,BackEnd, FullStack developer </h5>
               </td>
             </tr>
 
