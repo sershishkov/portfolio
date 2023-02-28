@@ -22,7 +22,6 @@ const Main = () => {
           </p>
           <p>
             At the moment I am looking for a job FRONT END, FULLSTACK, BACKEND
-            with a level of JUNIOR
           </p>
         </div>
         <h4>

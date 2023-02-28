@@ -10,7 +10,6 @@ const Header = () => {
           <div className='header_photo col-lg-4 col-md-6 col-sm-12'>
             <img src={myAvatar} alt='myAvatar' />
             <h6>FrontEnd,BackEnd, FullStack</h6>
-            <h6>JUNIOR </h6>
           </div>
           <div className='header_info  col-lg-8 col-md-6 col-sm-12'>
             <h2>Shyshkov Sergey</h2>
