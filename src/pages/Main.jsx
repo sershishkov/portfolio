@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import Calculator from '../img/Calculator.jpg';
 import imgBurger from '../img/burger_sandwich.png';
 import imgHome from '../img/home_for_scss_grid.jpeg';
+import remontOsbb from '../img/remont_7.jpg';
 import '../style/main.scss';
 
 const Main = () => {
@@ -78,6 +79,23 @@ const Main = () => {
 
               <div className='card-body'>
                 <p className='card-text'>"Travelling" REACT SCSS GRID</p>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div className='row'>
+          <div className='card  col-sm-12'>
+            <a
+              href='https://remont-osbb-nextjs13.vercel.app/'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
+              <img src={remontOsbb} alt='calc' className='card-img-top' />
+              <div className='card-body'>
+                <p className='card-text'>
+                  "Remont osbb" NEXTJS 13, MongoDb, Material-UI, TypeScript,
+                  NODE.js, Git, Vercel,
+                </p>
               </div>
             </a>
           </div>
