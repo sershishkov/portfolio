@@ -83,7 +83,7 @@ const Main = () => {
             </a>
           </div>
         </div>
-        <div className='row'>
+        {/* <div className='row'>
           <div className='card  col-sm-12'>
             <a
               href='https://remont-osbb-nextjs13.vercel.app/'
@@ -99,7 +99,7 @@ const Main = () => {
               </div>
             </a>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
