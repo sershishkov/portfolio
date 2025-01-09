@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import Calculator from '../img/Calculator.jpg';
 import imgBurger from '../img/burger_sandwich.png';
 import imgHome from '../img/home_for_scss_grid.jpeg';
-import remontOsbb from '../img/remont_7.jpg';
+// import remontOsbb from '../img/remont_7.jpg';
 import '../style/main.scss';
 
 const Main = () => {
@@ -37,15 +37,15 @@ const Main = () => {
         <div className='row'>
           <div className='card  col-sm-12'>
             <a
-              href='https://speed-calc.vercel.app/'
+              href='https://calc-calc-henna.vercel.app/'
               target='_blank'
               rel='noopener noreferrer'
             >
               <img src={Calculator} alt='calc' className='card-img-top' />
               <div className='card-body'>
                 <p className='card-text'>
-                  "Speed calculation" REACT, React HOOKS,
-                  Redux-Toolkit,Material-UI, TypeScript, NODE.js, Git, Vercel,
+                  "Speed calculation" REACT, React HOOKS, NextJS,Material-UI,
+                  TypeScript, NODE.js, Git, Vercel,
                 </p>
               </div>
             </a>
